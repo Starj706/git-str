@@ -1,2 +1,0 @@
-print("POKA");
-privet ("l;dk;slk;ldk;lk;l");
